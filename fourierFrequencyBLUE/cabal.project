@@ -1,0 +1,8 @@
+
+package hmatrix
+  flags: +openblas
+
+packages:
+ src/fourier
+
+package fourier
